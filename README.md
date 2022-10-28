@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on PoulpyPoule a project for my engineering school.
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **killian-mannarelli/killian-mannarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
