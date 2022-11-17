@@ -5,10 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 54 mins   ██████████████▓░░░░░░░░░░   58.54 %
-C#           1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
-TypeScript   40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Other        39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JavaScript   3 hrs 55 mins   ██████████████████▒░░░░░░   72.89 %
+Other        24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 ```
 
 <!--END_SECTION:waka-->
