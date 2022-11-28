@@ -17,7 +17,9 @@ Text         5 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=killian-mannarelli&count_private=true)
+##Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=killian-mannarelli&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **killian-mannarelli/killian-mannarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
