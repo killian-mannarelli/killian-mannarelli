@@ -17,7 +17,7 @@ Text         5 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-##Statistics
+## Statistics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=killian-mannarelli&count_private=true&show_icons=true&theme=dark)
 
