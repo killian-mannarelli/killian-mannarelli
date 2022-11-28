@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on PoulpyPoule a project for my engineering school.
+- 🔭 I’m currently working on PoulpyPoule a project for my engineering school. And Dropy an app with some friends.
+
+- 🌱 I’m currently learning Typescript with Prisma and ASP.Net.
 
 
 <!--START_SECTION:waka-->
